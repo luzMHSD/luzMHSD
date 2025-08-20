@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hola, soy Rita
 
-<!--
-**luzMHSD/luzMHSD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Analista de Inteligencia de Negocios con 9 años de experiencia en Finanzas y reciente formación en Ciencia de Datos.  
+📊 Transformo datos en información accionable mediante Python, SQL, Power BI y Machine Learning.  
+🚀 Apasionada por aplicar modelos predictivos para mejorar la toma de decisiones estratégicas.  
 
-Here are some ideas to get you started:
+## 🔧 Tecnologías y herramientas
+- Python (Pandas, NumPy, Scikit-learn, TensorFlow)
+- SQL
+- Visualización (Matplotlib, Seaborn, Power BI)
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos destacados
+- [📈 Telecom Churn Prediction](https://github.com/tuusuario/churn-prediction)  
+- [🤖 Clasificación de reseñas de películas](https://github.com/tuusuario/movie-reviews-nlp)  
+- [🖼️ Predicción de edad en imágenes (CNN)](https://github.com/tuusuario/age-prediction-cnn)  
+
+## 🌐 Encuéntrame en:
+- [LinkedIn](https://linkedin.com/in/rita-morales-datascience)  
+- ✉️ rita12morales@gmail.com
