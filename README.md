@@ -1,4 +1,4 @@
-# 👋 Hola, soy Rita
+# 👋 Hola, soy Luz
 
 🎯 Analista de Inteligencia de Negocios con 9 años de experiencia en Finanzas y reciente formación en Ciencia de Datos.  
 📊 Transformo datos en información accionable mediante Python, SQL, Power BI y Machine Learning.  
